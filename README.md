@@ -23,6 +23,7 @@ Learning3D is an open-source library that supports the development of deep learn
 ```
 pip install learning3d
 ```
+安装
 
 ### Setup using code
 ```
